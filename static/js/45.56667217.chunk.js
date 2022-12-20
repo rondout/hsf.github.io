@@ -1,0 +1,1 @@
+(this["webpackJsonpui-ngx"]=this["webpackJsonpui-ngx"]||[]).push([[45],{953:function(t,n,u){"use strict";u.r(n),u.d(n,"default",(function(){return r}));var c=u(104),e=u(141),s=u(321),i=u(1);function r(){return Object(c.c)()?Object(i.jsx)(s.a,{}):Object(i.jsx)(e.a,{to:"/user"})}}}]);
